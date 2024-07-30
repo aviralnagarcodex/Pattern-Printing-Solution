@@ -1,3 +1,14 @@
+# if n = 5
+#     *
+#    **
+#   ***
+#  ****
+# *****
+#  ****
+#   ***
+#    **
+#     *
+
 num = int(input("Enter the Number: "))
 
 for i in range(0, num):
